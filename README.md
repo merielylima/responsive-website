@@ -1,5 +1,5 @@
 # responsive-website
-Responsive website just using HTML and CSS.
+Responsive website just using HTML and CSS using Media Queries .
 
 The site was proposed by a course on [responsive layouts](https://www.alura.com.br/curso-online-mobile-first-layouts-responsivos) from [Alura](https://www.alura.com.br/) and modifications by me.
 
