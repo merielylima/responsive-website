@@ -37,6 +37,9 @@
     margin-left: .7rem;
 
 }
+.cabecalho__link:hover{
+    text-decoration: underline;
+}
 
 
 @media screen and (min-width: 1024px){
