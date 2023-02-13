@@ -8,5 +8,5 @@ The website is from a company called [Apeperia](http://merielylima.github.io/res
 Website link: https://merielylima.github.io/responsive-website/
 
 <p align="center">
-  <img src="https://github.com/merielylima/responsive-website/blob/main/img/IMG.png?raw=true" />
+  <img src="https://github.com/merielylima/responsive-website/blob/main/img/Template.png?raw=true" />
 </p>
